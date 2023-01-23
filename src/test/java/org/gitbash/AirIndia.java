@@ -2,6 +2,17 @@ package org.gitbash;
 
 public class AirIndia {
 	
+	private void method1() {
+		// TODO Auto-generated method stub
+
+	}
+
+	private void method2() {
+		// TODO Auto-generated method stub
+
+	}
+
+	
 	private void method3() {
 		// TODO Auto-generated method stub
 
@@ -11,5 +22,4 @@ public class AirIndia {
 		// TODO Auto-generated method stub
 
 	}
-
-}
+	}
