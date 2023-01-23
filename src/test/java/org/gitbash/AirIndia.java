@@ -22,4 +22,13 @@ public class AirIndia {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void prabhu() {
+		// TODO Auto-generated method stub
+
+	}
+	private void praveen() {
+		// TODO Auto-generated method stub
+
+	}
 	}
